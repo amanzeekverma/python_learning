@@ -7,6 +7,6 @@ List (to be updated:
 * Leetcode
 
 
-The uploads are not designed to cheat in exams or online tests, please use this as learning tool, if you want.
+The uploads are not designed to cheat but a personal/learning repo, use discretion, I am not a python guy while uploading these.
 
 Suggestions are welcomed.
