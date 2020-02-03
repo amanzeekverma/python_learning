@@ -9,4 +9,5 @@ List (to be updated):
 
 The uploads are not designed to cheat but a personal/learning repo, use discretion, I am not a python guy when starting to work on this repo. So, basically dont assume the solution to be best/good.
 
-Suggestions are welcomed.
+Aman ZeeK Verma
+email: avd.zeek@gmail.com
